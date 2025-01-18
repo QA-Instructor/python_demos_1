@@ -9,5 +9,5 @@ else:
 if int(txt) < num:
     print('Wow!')
 else:
-    print('Doh!')
+    print('Doh! kjhgit')
 
